@@ -8,8 +8,9 @@ I can access every single repo here in seconds using [GitHub Jump workflow](http
 
 As there are over 13,000 stars & GitHub limits # of lines it can render in
 readme.
-This repo is split into multiple parts. See page2.md, page3.md and other files
-in this repo.
+This repo is split into multiple parts. See 2.md, 3.md and other files
+in this repo. Everything is sorted alphabetically. Can also use the search bar
+to search over this repo to find something you want. 
 
 - [ActionScript (2)](#actionscript)
 - [Ada (4)](#ada)
