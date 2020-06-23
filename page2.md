@@ -1,3 +1,4 @@
+- [C# (18)](#c-1)
 - [C++ (614)](#c-2)
 - [CMake (5)](#cmake)
 - [CSS (171)](#css)
@@ -26,6 +27,29 @@
 - [Gherkin (2)](#gherkin)
 - [Gnuplot (1)](#gnuplot)
 - [Go (1759)](#go)
+
+## C
+
+|     | Name                                                                                        | Description                                                                                                                                                              | Author              | Stars |
+| --- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------- | ----- |
+| 1   | [OculusQuestHandTrackingPhysics](https://github.com/dilmerv/OculusQuestHandTrackingPhysics) | A variety of examples showing how to use Physics with Hand Tracking.                                                                                                     | dilmerv             | 83    |
+| 2   | [runner](https://github.com/actions/runner)                                                 | The Runner for GitHub Actions :rocket:                                                                                                                                   | actions             | 890   |
+| 3   | [microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo)             | Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.                                                                 | GoogleCloudPlatform | 8039  |
+| 4   | [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse)                    | Walk through an infinite, procedurally generated city                                                                                                                    | marian42            | 2665  |
+| 5   | [iotedge](https://github.com/Azure/iotedge)                                                 | The IoT Edge OSS project                                                                                                                                                 | Azure               | 1040  |
+| 6   | [UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference)                  | Unity C# reference source code                                                                                                                                           | Unity-Technologies  | 6752  |
+| 7   | [project-skylines](https://github.com/maxilevi/project-skylines)                            | procedural retro 3d game, winner of the GitHub Gameoff 2017                                                                                                              | maxilevi            | 281   |
+| 8   | [mono](https://github.com/mono/mono)                                                        | Mono open source ECMA CLI, C# and .NET implementation.                                                                                                                   | mono                | 8737  |
+| 9   | [electrino](https://github.com/pojala/electrino)                                            | Desktop runtime for apps built on web technologies, using the system's own web browser engine                                                                            | pojala              | 3868  |
+| 10  | [VRTK](https://github.com/ExtendRealityLtd/VRTK)                                            | A productive toolkit for rapidly building spatial computing solutions in the Unity software.                                                                             | ExtendRealityLtd    | 3158  |
+| 11  | [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks)                                 | Creative and unusual things that can be done with the Windows API.                                                                                                       | LazoCoder           | 2004  |
+| 12  | [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)                    | :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software                                                                                   | thangchung          | 12404 |
+| 13  | [AtomOS](https://github.com/amaneureka/AtomOS)                                              | A multitasking monolithic Kernel based x86 targeting Operating System written in C# from scratch aiming for high-level implementation of drivers in managed environment. | amaneureka          | 1222  |
+| 14  | [Jackett](https://github.com/Jackett/Jackett)                                               | API Support for your favorite torrent trackers.                                                                                                                          | Jackett             | 4431  |
+| 15  | [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)                       | Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.                                                                         | mxgmn               | 14653 |
+| 16  | [CodeHub](https://github.com/CodeHubApp/CodeHub)                                            | CodeHub is an iOS application written using Xamarin                                                                                                                      | CodeHubApp          | 22871 |
+| 17  | [roslyn](https://github.com/dotnet/roslyn)                                                  | The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.                                                                            | dotnet              | 13103 |
+| 18  | [WebMConverter](https://github.com/WebMBro/WebMConverter)                                   | WebM for bakas.                                                                                                                                                          | WebMBro             | 298   |
 
 ## C++
 

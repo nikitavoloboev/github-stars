@@ -20,7 +20,6 @@ in this repo.
 - [Assembly (18)](#assembly)
 - [Batchfile (1)](#batchfile)
 - [C (485)](#c)
-- [C# (18)](#c-1)
 
 ## ActionScript
 
