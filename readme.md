@@ -10,7 +10,7 @@ As there are over 13,000 stars & GitHub limits # of lines it can render in
 readme.
 This repo is split into multiple parts. See 2.md, 3.md and other files
 in this repo. Everything is sorted alphabetically. Can also use the search bar
-to search over this repo to find something you want. 
+to search over this repo to find something you want.
 
 - [ActionScript (2)](#actionscript)
 - [Ada (4)](#ada)
