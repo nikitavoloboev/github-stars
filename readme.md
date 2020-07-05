@@ -4,7 +4,7 @@
 
 I can access every single repo here in seconds using [GitHub Jump workflow](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations)
 
-![](https://i.imgur.com/U79X076.png)
+![](https://i.imgur.com/hg3otg4.png)
 
 As there are over 13,000 stars & GitHub limits # of lines it can render in
 readme.
